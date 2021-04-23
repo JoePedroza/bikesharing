@@ -9,21 +9,21 @@ Using tools available through Tableau, we are able to analyze and plot certain q
 
 ### The length of time that bikes are checked out for all riders.
 
-![](./static/CheckoutTimeForUsers.png)
+![](https://github.com/JoePedroza/bikesharing/blob/main/CheckoutTimesByGender.png)
 
 ### The length of time that bikes are checked out by gender
 
-![](./static/images/CheckoutTimeByGender.png)
+![](https://github.com/JoePedroza/bikesharing/blob/main/CheckoutTimeByGender.png)
 
 ### The number of bike trips by weekday for each hour of the day.
 
-![](./static/images/TripsByWeekdayPerHour.png)
+![](.https://github.com/JoePedroza/bikesharing/blob/main/WeekdayPerHour.png)
 
 ### The number of bike trips by gender for each hour of the day.
- ![](./static/images/TripsByGender.png)
+ ![](https://github.com/JoePedroza/bikesharing/blob/main/TripsByGender.png)
 
 ### The number of bike trips by gender for each hour for each day of the week.
-![](./static/images/GenderByWeekday.png)
+![](https://github.com/JoePedroza/bikesharing/blob/main/GenderByWeekday.png)
 
 ## Summary
 Overall the data analysis shows that there is enough usage to warrant a new bike sharing business in Des Moines.
