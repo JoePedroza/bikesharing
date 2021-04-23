@@ -9,15 +9,15 @@ Using tools available through Tableau, we are able to analyze and plot certain q
 
 ### The length of time that bikes are checked out for all riders.
 
-![](https://github.com/JoePedroza/bikesharing/blob/main/CheckoutTimesByGender.png)
+![](https://github.com/JoePedroza/bikesharing/blob/main/CheckoutTimesForUsers.png)
 
 ### The length of time that bikes are checked out by gender
 
-![](https://github.com/JoePedroza/bikesharing/blob/main/CheckoutTimeByGender.png)
+![](https://github.com/JoePedroza/bikesharing/blob/main/CheckoutTimesByGender.png)
 
 ### The number of bike trips by weekday for each hour of the day.
 
-![](.https://github.com/JoePedroza/bikesharing/blob/main/WeekdayPerHour.png)
+![](https://github.com/JoePedroza/bikesharing/blob/main/TripsByWeekdayPerHour.png)
 
 ### The number of bike trips by gender for each hour of the day.
  ![](https://github.com/JoePedroza/bikesharing/blob/main/TripsByGender.png)
