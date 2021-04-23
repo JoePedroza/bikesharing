@@ -9,7 +9,7 @@ Using tools available through Tableau, we are able to analyze and plot certain q
 
 ### The length of time that bikes are checked out for all riders.
 
-![](./static/images/CheckoutTimeForUsers.png)
+![](./static/CheckoutTimeForUsers.png)
 
 ### The length of time that bikes are checked out by gender
 
